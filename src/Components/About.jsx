@@ -111,7 +111,7 @@ const Details = styled.div`
 `;
 
 const teamMembers = [
-  { name: "Harshit Nayan", image: "../../public/Harshit.png" },
+  { name: "Harshit Nayan", image: "/Harshit.png" },
   { name: "Palak Khemchandani", image: "../../public/Palak.jpeg" },
   { name: "Saumilya Gupta", image: "../../public/Saumilya.jpeg" },
   { name: "Ritigya Gupta", image: "../../public/Ritigya.jpeg" },
