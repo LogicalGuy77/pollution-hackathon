@@ -90,8 +90,8 @@ const EarthScene = () => {
           <h1 className="antialiased font-bold italic font-mono text-8xl text-yellow-500 hover:text-red-500 hover:cursor-pointer transition-colors duration-300 ease-in-out delay-200">
             Bless_Bin
           </h1>
-          <h2 className=" text-center pr-12 text-5xl font-medium pt-8 text-sky-200 hover:text-green-400 hover:cursor-pointer transition-colors duration-300 ease-in-out delay-200">
-            catch phrase
+          <h2 className=" text-center pr-12 text-4xl font-semibold pt-8 text-sky-400 hover:text-green-500 hover:cursor-pointer transition-colors duration-300 ease-in-out delay-200">
+            Cleaner Streets and Greener Future!
           </h2>
         </div>
       </Html>
